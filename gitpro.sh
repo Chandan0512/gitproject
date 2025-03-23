@@ -1,3 +1,4 @@
 
 hello this new project
-checking the files 
+checking the files
+using push -u
